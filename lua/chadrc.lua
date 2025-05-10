@@ -1,12 +1,12 @@
 local options = {
   base46 = {
-    theme = "onedark", -- default theme
+    theme = "catppuccin", -- default theme
     hl_add = {},
     hl_override = {},
     integrations = {},
     changed_themes = {},
     transparency = false,
-    theme_toggle = { "onedark" },
+    theme_toggle = { "catppuccin" },
   },
 
   ui = {

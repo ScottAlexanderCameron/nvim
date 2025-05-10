@@ -21,6 +21,6 @@ require("options")
 require("mappings")
 
 require("lazy").setup("plugins")
--- (method 1, For heavy lazyloaders)
- dofile(vim.g.base46_cache .. "defaults")
- dofile(vim.g.base46_cache .. "statusline")
+
+dofile(vim.g.base46_cache .. "defaults")
+dofile(vim.g.base46_cache .. "statusline")
