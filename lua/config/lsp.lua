@@ -1,2 +1,5 @@
 vim.lsp.enable("nixd")
 vim.lsp.enable("ts_ls")
+vim.lsp.enable("pylsp")
+vim.lsp.enable("basedpyright")
+vim.lsp.enable("ruff")
